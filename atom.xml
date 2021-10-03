@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://aurorat.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Aurora</title>
-    <updated>2021-10-03T10:20:39.904Z</updated>
+    <updated>2021-10-03T10:26:59.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://aurorat.github.io"/>
-    <link rel="self" href="https://aurorat.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://aurorat.github.io/images/avatar.png</logo>
-    <icon>https://aurorat.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, Aurora</rights>
     <entry>
         <title type="html"><![CDATA[天堂旅行团]]></title>
-        <id>https://aurorat.github.io/post/tian-tang-lu-xing-tuan/</id>
-        <link href="https://aurorat.github.io/post/tian-tang-lu-xing-tuan/">
+        <id>http://localhost:4000/post/tian-tang-lu-xing-tuan/</id>
+        <link href="http://localhost:4000/post/tian-tang-lu-xing-tuan/">
         </link>
         <updated>2021-10-03T08:57:00.000Z</updated>
         <content type="html"><![CDATA[<h1 id="步入人海只为平庸">步入人海，只为平庸</h1>
@@ -60,8 +60,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://aurorat.github.io/post/hello-gridea/</id>
-        <link href="https://aurorat.github.io/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
